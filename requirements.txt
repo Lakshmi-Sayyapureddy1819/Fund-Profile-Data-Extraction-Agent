@@ -1,0 +1,13 @@
+# Core Web Scraping Libraries
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3  # optional but faster HTML parsing
+
+# Google Gemini API
+google-generativeai==0.4.1
+
+# Data Handling
+pandas==2.2.2  # if working with tabular JSON or CSV data
+python-dateutil==2.8.2  # useful for date transformations
+
+
