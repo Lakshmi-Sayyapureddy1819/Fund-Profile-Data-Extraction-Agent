@@ -11,3 +11,6 @@ pandas==2.2.2  # if working with tabular JSON or CSV data
 python-dateutil==2.8.2  # useful for date transformations
 
 
+aiohttp==3.8.4
+
+
